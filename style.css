@@ -1,0 +1,11 @@
+img {
+  position: absolute;
+  width: 200px;
+  margin-top: 230px;
+  cursor: pointer;
+}
+
+.flip-img {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
